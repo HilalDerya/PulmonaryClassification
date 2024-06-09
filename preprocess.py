@@ -27,8 +27,8 @@ def segment_audio(audio_file, save_dir, segment_duration=5):
     return segment_paths
 
 # Example usage
-sample_dir = 'C:\\Users\\asus\\Masaüstü\\BitirmeProjesi\\AudioFiles\\'
-save_directory = 'C:\\Users\\asus\\Masaüstü\\BitirmeProjesi\\segmnets'
+sample_dir = '' #audio sample file path
+save_directory = '' #save path
 audio_files = glob(sample_dir + '*.wav')
 segment_duration = 5
 
