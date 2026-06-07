@@ -48,7 +48,7 @@ A custom CNN (`CNNModel`) with the following structure:
 
 ---
 
-## 📊 Results
+## Results
 
 Training and validation metrics are tracked per epoch:
 
